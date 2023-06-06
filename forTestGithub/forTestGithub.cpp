@@ -12,5 +12,9 @@ int main()
     std::cout << "Hello World4!\n";
     std::cout << "Hello World5!\n";
     std::cout << "Hello World6!\n";
+
+    std::cout << "Hello World7!\n";
+    std::cout << "Hello World8!\n";
+    std::cout << "Hello World9!\n";
 }
 
