@@ -12,10 +12,5 @@ int main()
     std::cout << "Hello World4!\n";
     std::cout << "Hello World5!\n";
     std::cout << "Hello World6!\n";
-
-    std::cout << "20!\n";
-    std::cout << "21!\n";
-    std::cout << "22\n";
-
 }
 
